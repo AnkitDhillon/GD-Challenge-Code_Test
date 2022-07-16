@@ -12,10 +12,11 @@ https://thriving-druid-c0c789.netlify.app/
 - 'T' to change tank
 
 # To run the project locally
--npm install
--npm run start - starts a local server in dev mode with HMR (Hot Module Replacement).
--go to [http://localhost:1234](http://localhost:1234) in your browser.
+* `npm install`
+* `npm run start` - starts a local server in dev mode with HMR (Hot Module Replacement).
+* go to [http://localhost:1234](http://localhost:1234) in your browser.
 
+# Other commands
 * `npm run start` - runs the compiler and a server at the same time in dev mode with HMR (Hot Module Replacement).
 * `npm run build` - runs the compiler once and generates a production build.
 * `npm run build_serve` - it makes a build and serves it to port 8080.
